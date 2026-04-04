@@ -1,16 +1,12 @@
-# 个人信息
+### 个人信息
 
-戴晓峰 2001.11
+戴晓峰 ｜ 2001.11 ｜ 19818518415 ｜ 2068610832@qq.com ｜ [Github](https://github.com/codeusb)
 
-19818518415 2068610832@qq.com
+### 教育经历
 
-[Github](https://github.com/codeusb)
+中国计量大学 ｜ 本科 ｜ 信息管理与信息系统 ｜ 2020 - 2024
 
-# 教育经历
-
-中国计量大学 本科 信息管理与信息系统 2020 - 2024
-
-# 相关技能
+### 相关技能
 
 - 精通 React 以及其生态系统，具备源码分析能力，有效提升项目稳定性和性能
 - 熟悉 ReactNative 移动端开发 ios、android 应用
@@ -19,17 +15,35 @@
 - 掌握 Nest.JS、MySQL、SQLite，构建部署服务端应用
 - 乐于钻研学习新技术, 时刻关注行业动态拓展视野，期望成为全栈开发
 
-# 工作经历
+### 工作经历
 
-## 实习经历 杭州端点网络科技有限公司 2023.9 - 2024.6
+<div class="experience-title">
+  <span class="experience-kind">实习经历</span>
+  <span class="experience-company">杭州端点网络科技有限公司</span>
+  <span class="experience-period">2023.9 - 2024.6</span>
+</div>
 
-Trantor (软件生产低代码平台) ｜前端实习 | 2023.9 - 2024.6
+<div class="role-line">
+  <span class="role-project">Trantor (软件生产低代码平台)</span>
+  <span class="role-meta">前端实习</span>
+  <span class="role-period">2023.9 - 2024.6</span>
+</div>
 
-文档建设、功能&组件开发
+文档建设、功能开发
 
-## 工作经历 杭州端点网络科技有限公司 2024.6 - 至今
+<div class="resume-gap"></div>
 
-金币云集（React Native多端电商平台）｜ 核心前端开发 | 2024.6 - 2025.3
+<div class="experience-title">
+  <span class="experience-kind">工作经历</span>
+  <span class="experience-company">杭州端点网络科技有限公司</span>
+  <span class="experience-period">2024.6 - 至今</span>
+</div>
+
+<div class="role-line">
+  <span class="role-project">金币云集（React Native多端电商平台）</span>
+  <span class="role-meta">核心前端开发</span>
+  <span class="role-period">2024.6 - 2025.3</span>
+</div>
 
 项目简介：面向中国金币收藏品交易的 C2C 电商平台，基于 React Native 开发，日活用户 15 万+。
 
@@ -42,7 +56,13 @@ Trantor (软件生产低代码平台) ｜前端实习 | 2023.9 - 2024.6
 - 前端工程化建设：配置 CI/CD 自动化流水线，实现 800+ TS 文件严格类型覆盖，生产环境 Type Error 归零；抽象 10+ 通用业务组件沉淀至团队组件库，需求交付效率提升 40%。
 - 技术栈：React Native 0.66、TypeScript
 
-Trantor (软件生产低代码平台) ｜ 前端开发 | 2025.3 - 至今
+<div class="resume-gap"></div>
+
+<div class="role-line">
+  <span class="role-project">Trantor (软件生产低代码平台)</span>
+  <span class="role-meta">前端开发</span>
+  <span class="role-period">2025.3 - 至今</span>
+</div>
 
 项目简介：支持千万级大型应用快速搭建的低代码平台，基于 React 19 生态构建，已支撑 10+ 核心业务线
 
@@ -51,7 +71,6 @@ Trantor (软件生产低代码平台) ｜ 前端开发 | 2025.3 - 至今
 核心贡献：
 
 - 物料库设计与研发：设计维护 material-ui 物料库，封装 50+ 复杂业务组件（动态表单、数据大屏、高阶布局等），支持拖拽生成、属性配置、实时预览全流程
-- 业务架构改造：设计并落地全局国际化（i18n）方案，通过前端缓存语言标识与服务端传参动态匹配，零侵入式支撑内部出海业务。
 - AI 效能工具落地：基于 MCP 协议，结合 Figma 与 Playwright 搭建前端“设计稿转代码” AI 助手。搭建自研组件库 llm.txt 文档，实现应用设计还原度达 70%，大幅缩短 UI 还原时间。
 - AI Agent 场景开发：参与 agent-ui 研发，设计并封装支持“文件阅读”、“数据预测走势分析”等 AI 对话场景的高阶交互组件。
 - 技术栈：React 19、TypeScript 、Zustand、TanStack Query、CodeMirror、@xyflow/react、ECharts、@dnd-kit 、Turbo、Biome
