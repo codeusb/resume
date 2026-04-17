@@ -152,6 +152,12 @@ li {
   line-height: 1.5;
 }
 
+li > p {
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
+}
+
 li::marker {
   color: var(--accent);
 }
