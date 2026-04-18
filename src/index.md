@@ -8,17 +8,17 @@
 
 ### 相关技能
 
-- 精通 React 以及其生态系统，具备源码分析能力，有效提升项目稳定性和性能
+- 精通 React 及其生态系统，具备源码分析能力，有效提升项目稳定性和性能
 
-- 熟悉 ReactNative 移动端开发 ios、android 应用
+- 熟悉 React Native 移动端开发 iOS、Android 应用
 
 - 熟悉 Vite、Git、TypeScript、Linux 等开发技术
 
 - 掌握 AI 辅助工具 Claude Code、Cursor、Codex 等的使用，提升代码质量与编码效率
 
-- 掌握 Nest.JS、MySQL、SQLite，构建部署服务端应用
+- 掌握 NestJS、MySQL、SQLite，构建部署服务端应用
 
-- 乐于钻研学习新技术, 时刻关注行业动态拓展视野，期望成为全栈开发
+- 乐于钻研学习新技术，时刻关注行业动态拓展视野，期望成为全栈开发
 
 ### 工作经历
 
@@ -34,7 +34,7 @@
   <span class="role-period">2023.9 - 2024.6</span>
 </div>
 
-文档建设、功能开发
+文档建设、功能开发。
 
 <div class="resume-gap"></div>
 
@@ -72,9 +72,9 @@
   <span class="role-period">2025.3 - 至今</span>
 </div>
 
-项目简介：支持大型软件应用快速搭建的低代码平台，基于 React 19 生态构建，已支撑 30+ 大型客户项目。
+项目简介：支持大型软件应用快速搭建的低代码平台，基于 React 生态构建，已支撑 30+ 大型客户项目。
 
-核心职责：担任前端开发，参与 Trantor 低代码平台开发，技术架构设计，生产开发提效，AI应用落地。
+核心职责：担任前端开发，参与 Trantor 低代码平台开发，技术架构设计，生产开发提效，AI 应用落地。
 
 核心贡献：
 
@@ -86,13 +86,13 @@
 
 - AI 可视化组件沉淀：设计并实现文件差异比对、预测分析等业务组件，支持 PDF/图片高亮、差异定位、图表与明细联动等交互，支撑 AI 业务闭环。
 
-- 技术栈：React 19、TypeScript 、Zustand、TanStack Query、CodeMirror、@xyflow/react、ECharts、@dnd-kit 、Turbo、Biome
+- 技术栈：React 19、TypeScript、Zustand、TanStack Query、CodeMirror、@xyflow/react、ECharts、@dnd-kit 、Turbo、Biome
 
 <div class="resume-gap"></div>
 
 <div class="role-line">
   <span class="role-project">Trantor FrontEnd Helper（设计还原 MCP 工具）</span>
-  <span class="role-meta">AI Agent开发</span>
+  <span class="role-meta">AI Agent 开发</span>
   <span class="role-period">2025.9 - 2025.10</span>
 </div>
 
